@@ -15,7 +15,7 @@
     "history": "^4.7.2",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
-    "react-clipboard.js": "^2.0.2",
+    "react-clipboard.js": "^2.0.6",
     "react-debounce-input": "^3.2.0",
     "react-dom": "^16.6.3",
     "react-ga": "^2.5.3",
