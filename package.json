@@ -17,7 +17,7 @@
     "react": "^16.13.1",
     "react-clipboard.js": "^2.0.2",
     "react-debounce-input": "^3.2.0",
-    "react-dom": "^16.6.3",
+    "react-dom": "^16.13.1",
     "react-ga": "^2.5.3",
     "react-octicon": "^3.0.1",
     "react-redux": "^6.0.0",
